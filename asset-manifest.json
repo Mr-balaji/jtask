@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mr-balaji/jtask.git/static/css/main.75d3c962.css",
+    "main.js": "/Mr-balaji/jtask.git/static/js/main.8671ae1a.js",
+    "static/js/787.cda612ba.chunk.js": "/Mr-balaji/jtask.git/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Mr-balaji/jtask.git/index.html",
+    "main.75d3c962.css.map": "/Mr-balaji/jtask.git/static/css/main.75d3c962.css.map",
+    "main.8671ae1a.js.map": "/Mr-balaji/jtask.git/static/js/main.8671ae1a.js.map",
+    "787.cda612ba.chunk.js.map": "/Mr-balaji/jtask.git/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d3c962.css",
+    "static/js/main.8671ae1a.js"
+  ]
+}
